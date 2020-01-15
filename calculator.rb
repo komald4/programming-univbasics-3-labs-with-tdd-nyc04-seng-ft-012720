@@ -1,2 +1,2 @@
-first_number = .to be_an(Integer)
-second_number = .to be_an(Float)
+first_number = 4
+second_number = 4
